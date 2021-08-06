@@ -1,0 +1,12 @@
+C:\Users\Nico\source\repos\MedidorApp1\MedidorModel\obj\Debug\MedidorModel.csproj.AssemblyReference.cache
+C:\Users\Nico\source\repos\MedidorApp1\MedidorModel\obj\Debug\MedidorModel.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\MedidorApp1\MedidorModel\bin\Debug\MedidorModel.dll.config
+C:\Users\Nico\source\repos\MedidorApp1\MedidorModel\bin\Debug\MedidorModel.dll
+C:\Users\Nico\source\repos\MedidorApp1\MedidorModel\bin\Debug\MedidorModel.pdb
+C:\Users\Nico\source\repos\MedidorApp1\MedidorModel\bin\Debug\EntityFramework.dll
+C:\Users\Nico\source\repos\MedidorApp1\MedidorModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nico\source\repos\MedidorApp1\MedidorModel\bin\Debug\EntityFramework.xml
+C:\Users\Nico\source\repos\MedidorApp1\MedidorModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nico\source\repos\MedidorApp1\MedidorModel\obj\Debug\MedidorModel.csproj.CopyComplete
+C:\Users\Nico\source\repos\MedidorApp1\MedidorModel\obj\Debug\MedidorModel.dll
+C:\Users\Nico\source\repos\MedidorApp1\MedidorModel\obj\Debug\MedidorModel.pdb
